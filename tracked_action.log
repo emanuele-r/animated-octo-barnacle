@@ -1,0 +1,27 @@
+2023-09-17 19:30:02,523 standardize_scale--> Started
+2023-09-17 19:30:02,523 datatype_controll --> Started
+2023-09-17 19:30:02,523 datatype_controll --> Completed
+2023-09-17 19:30:02,523 Data has been reshape to data :2
+2023-09-17 19:30:02,523 standardize_scale --> Completed with an output [0] of [-0.07052707]
+2023-09-17 19:30:02,523 _clustering_dataStarted
+2023-09-17 19:30:02,523 datatype_controll --> Started
+2023-09-17 19:30:02,523 datatype_controll --> Completed
+2023-09-17 19:30:02,523 Data dimension : 2
+2023-09-17 19:42:41,392 standardize_scale--> Started
+2023-09-17 19:42:41,392 datatype_controll --> Started
+2023-09-17 19:42:41,407 datatype_controll --> Completed
+2023-09-17 19:42:41,407 Data has been reshape to data :2
+2023-09-17 19:42:41,407 standardize_scale --> Completed with an output [0] of [-0.07052707]
+2023-09-17 19:42:41,407 _clustering_dataStarted
+2023-09-17 19:42:41,407 datatype_controll --> Started
+2023-09-17 19:42:41,407 datatype_controll --> Completed
+2023-09-17 19:42:41,407 Data dimension : 2
+2023-09-17 19:47:19,291 standardize_scale--> Started
+2023-09-17 19:47:19,291 datatype_controll --> Started
+2023-09-17 19:47:19,291 datatype_controll --> Completed
+2023-09-17 19:47:19,291 Data has been reshape to data :2
+2023-09-17 19:47:19,291 standardize_scale --> Completed with an output [0] of [-0.07052707]
+2023-09-17 19:47:19,291 _clustering_dataStarted
+2023-09-17 19:47:19,291 datatype_controll --> Started
+2023-09-17 19:47:19,291 datatype_controll --> Completed
+2023-09-17 19:47:19,291 Data dimension : 2
